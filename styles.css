@@ -1,8 +1,9 @@
 body {
-  color:white;
+color: white;
 background: black;
 margin: 0px;
 font-family: Bebas Naue, sans-serif;
+}
 
 header {
   border-bottom:solide  2px rgb(42, 122, 228);
@@ -19,7 +20,7 @@ section {
   justify-content: center;
 }
 
-.chamada-texto{
+.chamada-texto {
   margin-right: 5%;
 
 }
