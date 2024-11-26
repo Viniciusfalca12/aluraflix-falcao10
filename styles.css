@@ -2,7 +2,7 @@ body {
   color:white;
 background: black;
 margin: 0px;
-font-family: bebas naue, sans-serif;
+font-family: Bebas Naue, sans-serif;
 
 header {
   border-bottom:solide  2px rgb(42, 122, 228);
@@ -11,16 +11,15 @@ header {
   color:rgb(42, 122, 228)
   }
   
-  section{
+section {
   background: rgb(184, 156, 213);
-padding-bottom: 80px;
-padding-top: 80px;
-display:flex;
-justify-content: center;
-  }
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display:flex;
+  justify-content: center;
+}
 
 .chamada-texto{
   margin-right: 5%;
 
 }
-
